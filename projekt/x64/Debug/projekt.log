@@ -1,0 +1,8 @@
+﻿  projekt.cpp
+C:\Users\orcus\source\repos\projekt\projekt\matrix_operations.hpp(58,42): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\orcus\source\repos\projekt\projekt\matrix_operations.hpp(88,35): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\orcus\source\repos\projekt\projekt\matrix_operations.hpp(107,32): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\orcus\source\repos\projekt\projekt\matrix_operations.hpp(110,23): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\orcus\source\repos\projekt\projekt\mef_process.hpp(29,12): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\orcus\source\repos\projekt\projekt\mef_process.hpp(62,12): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  projekt.vcxproj -> C:\Users\orcus\source\repos\projekt\x64\Debug\projekt.exe

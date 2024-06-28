@@ -1,0 +1,186 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\orcus\\source\\repos\\projekt\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{02DDFC8C-947B-4E58-8FB3-90D20BE87D42}|projekt\\projekt.vcxproj|C:\\Users\\orcus\\source\\repos\\projekt\\projekt\\element.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{02DDFC8C-947B-4E58-8FB3-90D20BE87D42}|projekt\\projekt.vcxproj|solutionrelative:projekt\\element.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02DDFC8C-947B-4E58-8FB3-90D20BE87D42}|projekt\\projekt.vcxproj|C:\\Users\\orcus\\source\\repos\\projekt\\projekt\\mef_process.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{02DDFC8C-947B-4E58-8FB3-90D20BE87D42}|projekt\\projekt.vcxproj|solutionrelative:projekt\\mef_process.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02DDFC8C-947B-4E58-8FB3-90D20BE87D42}|projekt\\projekt.vcxproj|C:\\Users\\orcus\\source\\repos\\projekt\\projekt\\condition.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{02DDFC8C-947B-4E58-8FB3-90D20BE87D42}|projekt\\projekt.vcxproj|solutionrelative:projekt\\condition.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02DDFC8C-947B-4E58-8FB3-90D20BE87D42}|projekt\\projekt.vcxproj|C:\\Users\\orcus\\source\\repos\\projekt\\projekt\\projekt.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{02DDFC8C-947B-4E58-8FB3-90D20BE87D42}|projekt\\projekt.vcxproj|solutionrelative:projekt\\projekt.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02DDFC8C-947B-4E58-8FB3-90D20BE87D42}|projekt\\projekt.vcxproj|C:\\Users\\orcus\\source\\repos\\projekt\\projekt\\vector.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{02DDFC8C-947B-4E58-8FB3-90D20BE87D42}|projekt\\projekt.vcxproj|solutionrelative:projekt\\vector.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02DDFC8C-947B-4E58-8FB3-90D20BE87D42}|projekt\\projekt.vcxproj|C:\\Users\\orcus\\source\\repos\\projekt\\projekt\\matrix_operations.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{02DDFC8C-947B-4E58-8FB3-90D20BE87D42}|projekt\\projekt.vcxproj|solutionrelative:projekt\\matrix_operations.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02DDFC8C-947B-4E58-8FB3-90D20BE87D42}|projekt\\projekt.vcxproj|C:\\Users\\orcus\\source\\repos\\projekt\\projekt\\matrix.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{02DDFC8C-947B-4E58-8FB3-90D20BE87D42}|projekt\\projekt.vcxproj|solutionrelative:projekt\\matrix.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02DDFC8C-947B-4E58-8FB3-90D20BE87D42}|projekt\\projekt.vcxproj|C:\\Users\\orcus\\source\\repos\\projekt\\projekt\\input_output.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{02DDFC8C-947B-4E58-8FB3-90D20BE87D42}|projekt\\projekt.vcxproj|solutionrelative:projekt\\input_output.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02DDFC8C-947B-4E58-8FB3-90D20BE87D42}|projekt\\projekt.vcxproj|C:\\Users\\orcus\\source\\repos\\projekt\\projekt\\node.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{02DDFC8C-947B-4E58-8FB3-90D20BE87D42}|projekt\\projekt.vcxproj|solutionrelative:projekt\\node.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02DDFC8C-947B-4E58-8FB3-90D20BE87D42}|projekt\\projekt.vcxproj|C:\\Users\\orcus\\source\\repos\\projekt\\projekt\\mesh.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{02DDFC8C-947B-4E58-8FB3-90D20BE87D42}|projekt\\projekt.vcxproj|solutionrelative:projekt\\mesh.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "matrix_operations.hpp",
+              "DocumentMoniker": "C:\\Users\\orcus\\source\\repos\\projekt\\projekt\\matrix_operations.hpp",
+              "RelativeDocumentMoniker": "projekt\\matrix_operations.hpp",
+              "ToolTip": "C:\\Users\\orcus\\source\\repos\\projekt\\projekt\\matrix_operations.hpp",
+              "RelativeToolTip": "projekt\\matrix_operations.hpp",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAgwJ4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-28T14:07:24.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "matrix.hpp",
+              "DocumentMoniker": "C:\\Users\\orcus\\source\\repos\\projekt\\projekt\\matrix.hpp",
+              "RelativeDocumentMoniker": "projekt\\matrix.hpp",
+              "ToolTip": "C:\\Users\\orcus\\source\\repos\\projekt\\projekt\\matrix.hpp",
+              "RelativeToolTip": "projekt\\matrix.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAH8AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-28T14:07:22.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "input_output.hpp",
+              "DocumentMoniker": "C:\\Users\\orcus\\source\\repos\\projekt\\projekt\\input_output.hpp",
+              "RelativeDocumentMoniker": "projekt\\input_output.hpp",
+              "ToolTip": "C:\\Users\\orcus\\source\\repos\\projekt\\projekt\\input_output.hpp",
+              "RelativeToolTip": "projekt\\input_output.hpp",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAAAGwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-28T14:06:44.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "vector.hpp",
+              "DocumentMoniker": "C:\\Users\\orcus\\source\\repos\\projekt\\projekt\\vector.hpp",
+              "RelativeDocumentMoniker": "projekt\\vector.hpp",
+              "ToolTip": "C:\\Users\\orcus\\source\\repos\\projekt\\projekt\\vector.hpp",
+              "RelativeToolTip": "projekt\\vector.hpp",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAAAFwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-28T14:07:30.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "mef_process.hpp",
+              "DocumentMoniker": "C:\\Users\\orcus\\source\\repos\\projekt\\projekt\\mef_process.hpp",
+              "RelativeDocumentMoniker": "projekt\\mef_process.hpp",
+              "ToolTip": "C:\\Users\\orcus\\source\\repos\\projekt\\projekt\\mef_process.hpp",
+              "RelativeToolTip": "projekt\\mef_process.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADQAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-28T14:07:55.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "projekt.cpp",
+              "DocumentMoniker": "C:\\Users\\orcus\\source\\repos\\projekt\\projekt\\projekt.cpp",
+              "RelativeDocumentMoniker": "projekt\\projekt.cpp",
+              "ToolTip": "C:\\Users\\orcus\\source\\repos\\projekt\\projekt\\projekt.cpp",
+              "RelativeToolTip": "projekt\\projekt.cpp",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAABYAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-28T14:00:37.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "condition.hpp",
+              "DocumentMoniker": "C:\\Users\\orcus\\source\\repos\\projekt\\projekt\\condition.hpp",
+              "RelativeDocumentMoniker": "projekt\\condition.hpp",
+              "ToolTip": "C:\\Users\\orcus\\source\\repos\\projekt\\projekt\\condition.hpp",
+              "RelativeToolTip": "projekt\\condition.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-28T14:06:28.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "node.hpp",
+              "DocumentMoniker": "C:\\Users\\orcus\\source\\repos\\projekt\\projekt\\node.hpp",
+              "RelativeDocumentMoniker": "projekt\\node.hpp",
+              "ToolTip": "C:\\Users\\orcus\\source\\repos\\projekt\\projekt\\node.hpp",
+              "RelativeToolTip": "projekt\\node.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-28T14:28:44.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "element.hpp",
+              "DocumentMoniker": "C:\\Users\\orcus\\source\\repos\\projekt\\projekt\\element.hpp",
+              "RelativeDocumentMoniker": "projekt\\element.hpp",
+              "ToolTip": "C:\\Users\\orcus\\source\\repos\\projekt\\projekt\\element.hpp",
+              "RelativeToolTip": "projekt\\element.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-28T15:34:19.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "mesh.hpp",
+              "DocumentMoniker": "C:\\Users\\orcus\\source\\repos\\projekt\\projekt\\mesh.hpp",
+              "RelativeDocumentMoniker": "projekt\\mesh.hpp",
+              "ToolTip": "C:\\Users\\orcus\\source\\repos\\projekt\\projekt\\mesh.hpp",
+              "RelativeToolTip": "projekt\\mesh.hpp",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAALkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-28T14:31:53.369Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
